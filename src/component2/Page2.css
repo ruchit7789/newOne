@@ -1,0 +1,51 @@
+/* .tbdr {
+  border: 1px dashed black;
+} */
+.pageee {
+  width: 1480px;
+}
+.page2a {
+  margin: 15px 10141px 14px 150px;
+  width: 289px;
+  height: 24px;
+}
+.page2b {
+  margin-left: 155px;
+  margin-right: 1092;
+  display: flex;
+  width: 223px;
+  height: 35px;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+
+.page2c {
+  margin-left: 152px;
+  margin-top: 30px;
+  margin-right: 155px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container1b {
+  /* margin-top: 13px;
+  margin-right: 152px;
+  margin-left: 155px; */
+  height: 74px;
+  width: 283px;
+  border: 1px dashed red;
+}
+.container11b {
+  margin-top: 13px;
+  display: flex;
+  gap: 12.5px;
+}
+
+.pagination {
+  margin: 50px 572px 50px 573px;
+  width: 335px;
+  height: 42px;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}

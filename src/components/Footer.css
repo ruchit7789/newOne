@@ -1,0 +1,33 @@
+.footer_1 {
+  width: 1480px;
+  height: 356px;
+
+  flex-shrink: 0;
+  background: #fa5c98;
+  display: flex;
+}
+
+.footer_1a {
+  margin: 66px 172px 152px 110px;
+  width: 1198px;
+  display: flex;
+  justify-content: space-between;
+}
+.h1_1 {
+  color: #fff;
+
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.div_4 {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+}
